@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Blackbox">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lab-9/SoftwareTestingExercise-master/libs/Blackbox.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
